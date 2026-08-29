@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+
+.this is first line in a file 
+True <class 'bool'>
+10 <class 'int'>
+1.1 <class 'float'>
+CoreCode <class 'str'>
+This is last line in file 

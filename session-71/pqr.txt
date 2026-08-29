@@ -1,0 +1,6 @@
+This is first line in file 
+True
+10
+1.1
+Hello
+This is last line in file

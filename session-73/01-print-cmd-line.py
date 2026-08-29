@@ -1,0 +1,3 @@
+import sys
+print('sys.argv',sys.argv)
+print('number of command line argument ',len(sys.argv))
